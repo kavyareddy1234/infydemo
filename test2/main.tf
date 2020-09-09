@@ -7,6 +7,7 @@ provider "azurerm" {
   environment = "public"
   version = ">= 2.0.0"
   features {} 
+  
   subscription_id = 1fc3b03c-4b80-482d-8cfd-2214fc605b65
   client_id = cc8ed034-3815-4aad-99c7-c0aa4cd1aeb4
   tenant_id = 640a7a44-7eac-489a-b73e-220eac0b7cf3
